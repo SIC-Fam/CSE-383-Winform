@@ -1,0 +1,11 @@
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\bin\Debug\QuanLyCanBo.exe.config
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\bin\Debug\QuanLyCanBo.exe
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\bin\Debug\QuanLyCanBo.pdb
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.csproj.AssemblyReference.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.Form1.resources
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.Properties.Resources.resources
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.csproj.GenerateResource.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.csproj.CoreCompileInputs.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.exe
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.pdb

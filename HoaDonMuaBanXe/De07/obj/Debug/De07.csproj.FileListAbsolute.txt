@@ -1,0 +1,11 @@
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\bin\Debug\De07.exe.config
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\bin\Debug\De07.exe
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\bin\Debug\De07.pdb
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\obj\Debug\De07.csproj.AssemblyReference.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\obj\Debug\De07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\obj\Debug\De07.Form1.resources
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\obj\Debug\De07.Properties.Resources.resources
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\obj\Debug\De07.csproj.GenerateResource.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\obj\Debug\De07.csproj.CoreCompileInputs.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\obj\Debug\De07.exe
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\De07\De07\obj\Debug\De07.pdb
