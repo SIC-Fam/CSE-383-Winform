@@ -1,0 +1,11 @@
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\bin\Debug\BanVeXemPhim.exe.config
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\bin\Debug\BanVeXemPhim.exe
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\bin\Debug\BanVeXemPhim.pdb
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.csproj.AssemblyReference.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.Form1.resources
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.Properties.Resources.resources
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.csproj.GenerateResource.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.exe
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.pdb
