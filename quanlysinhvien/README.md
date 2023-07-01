@@ -2,14 +2,18 @@
 
 ---
 
-## 1. Chương trình chính - giao diện
+## 1.  SQL - Demo bảng `sinhvien`
+
+![](./images/sql.jpg)
+
+## 2. Chương trình chính - giao diện
 
 ![](./images/demo1.jpg)
 
-## 2. Chương trình chính - giao diện - chọn 1 hàng
+## 3. Chương trình chính - giao diện - chọn 1 hàng
 
 ![](./images/demo2.jpg)
 
-## 1. Chương trình chính - giao diện - lọc
+## 4. Chương trình chính - giao diện - lọc
 
 ![](./images/demo3.jpg)

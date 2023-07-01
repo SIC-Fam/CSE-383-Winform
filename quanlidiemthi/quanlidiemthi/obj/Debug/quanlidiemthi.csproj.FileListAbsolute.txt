@@ -1,0 +1,12 @@
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\bin\Debug\quanlidiemthi.exe.config
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\bin\Debug\quanlidiemthi.exe
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\bin\Debug\quanlidiemthi.pdb
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.csproj.AssemblyReference.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.Form1.resources
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.Properties.Resources.resources
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.csproj.GenerateResource.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.csproj.CoreCompileInputs.cache
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.exe
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.pdb
+C:\Users\Bui Ngoc\OneDrive\Máy tính\repos\UpGit\quanlidiemthi\quanlidiemthi\obj\Debug\quanlidiemthi.Form2.resources
