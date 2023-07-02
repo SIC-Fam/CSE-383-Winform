@@ -1,5 +1,5 @@
 # CSE383 Winform
-Tổng hợp tất cả các bài tập thực hành mà mình đã làm trong quá trình học `Lập trình windows`
+Tổng hợp 1 số bài tập thực hành mà mình đã làm trong quá trình học `Lập trình windows`
 
 ---
 
